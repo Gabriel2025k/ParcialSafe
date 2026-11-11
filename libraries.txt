@@ -1,0 +1,2 @@
+# Libreria solo si Wokwi no trae umqtt.simple (normalmente ya viene incluida)
+micropython-umqtt.simple
