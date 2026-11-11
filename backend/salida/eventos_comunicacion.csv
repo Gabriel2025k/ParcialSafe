@@ -1,0 +1,12 @@
+fecha,tipo,gravedad,detalle
+2026-11-09T19:41:33,SIN_DATOS,ADVERTENCIA,INICIO -> SIN_DATOS: ningun mensaje del dispositivo desde que inicio el monitor
+2026-11-09T19:44:28,ONLINE,INFO,SIN_DATOS -> ONLINE: el dispositivo anuncio online (en vivo)
+2026-11-09T19:44:47,SIN_DATOS,ADVERTENCIA,ONLINE -> SIN_DATOS: sin telemetria hace 10.5 s (maximo 10 s) y sin testamento
+2026-11-09T19:45:23,OFFLINE,CRITICA,INICIO -> OFFLINE: el broker publico el testamento (retenido)
+2026-11-09T19:45:35,ONLINE,INFO,OFFLINE -> ONLINE: llega telemetria
+2026-11-09T19:45:51,SIN_DATOS,ADVERTENCIA,ONLINE -> SIN_DATOS: sin telemetria hace 10.1 s (maximo 10 s) y sin testamento
+2026-11-09T19:45:52,ONLINE,INFO,SIN_DATOS -> ONLINE: llega telemetria
+2026-11-09T19:46:02,SIN_DATOS,ADVERTENCIA,ONLINE -> SIN_DATOS: sin telemetria hace 10.1 s (maximo 10 s) y sin testamento
+2026-11-09T19:46:04,ONLINE,INFO,SIN_DATOS -> ONLINE: llega telemetria
+2026-11-09T19:46:14,SIN_DATOS,ADVERTENCIA,ONLINE -> SIN_DATOS: sin telemetria hace 10.0 s (maximo 10 s) y sin testamento
+2026-11-09T19:46:15,ONLINE,INFO,SIN_DATOS -> ONLINE: llega telemetria
